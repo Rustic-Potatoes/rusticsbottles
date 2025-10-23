@@ -1,0 +1,6 @@
+{
+  "parent": "rusticsbottles:item/bottle",
+  "textures": {
+    "liquid": "rusticsbottles:item/blank"
+  }
+}

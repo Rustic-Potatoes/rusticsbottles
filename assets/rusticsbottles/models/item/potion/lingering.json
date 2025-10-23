@@ -1,0 +1,6 @@
+{
+  "parent": "rusticsbottles:item/lingering_bottle",
+  "textures": {
+    "liquid": "rusticsbottles:item/potion_liquid"
+  }
+}

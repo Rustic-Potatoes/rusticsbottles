@@ -1,0 +1,87 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:potion_contents",
+    "cases": [
+      {
+        "when": [
+          {
+            "potion": "minecraft:water"
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "rusticsbottles:item/potion/splash_water",
+          "tints": [
+            {
+              "type": "minecraft:potion",
+              "default": -13083194
+            }
+          ]
+        }
+      },
+      {
+        "when": [
+          {
+            "potion": "minecraft:thick"
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "rusticsbottles:item/potion/splash_water",
+          "tints": [
+            {
+              "type": "minecraft:potion",
+              "default": -13083194
+            }
+          ]
+        }
+      },
+      {
+        "when": [
+          {
+            "potion": "minecraft:mundane"
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "rusticsbottles:item/potion/splash_water",
+          "tints": [
+            {
+              "type": "minecraft:potion",
+              "default": -13083194
+            }
+          ]
+        }
+      },
+      {
+        "when": [
+          {
+            "potion": "minecraft:awkward"
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "rusticsbottles:item/potion/splash_water",
+          "tints": [
+            {
+              "type": "minecraft:potion",
+              "default": -13083194
+            }
+          ]
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "rusticsbottles:item/potion/splash",
+      "tints": [
+        {
+          "type": "minecraft:potion",
+          "default": -13083194
+        }
+      ]
+    }
+  }
+}

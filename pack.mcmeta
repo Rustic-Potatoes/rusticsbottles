@@ -1,0 +1,11 @@
+{
+	"pack": {
+		"description": "Rustic's Bottles",
+		"min_format": [69, 0],
+		"max_format": [69, 0],
+    "supported_format": {
+      "min_inclusive": 18,
+      "max_inclusive": 46 
+    }
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "rusticsbottles:item/splash_bottle_dark",
+  "textures": {
+    "liquid": "rusticsbottles:item/potion_liquid"
+  }
+}
