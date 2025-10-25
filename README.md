@@ -1,6 +1,6 @@
 ---
 
-#### Rustic's Bottles retextures the bottles and bottle-like items to be 3d!
+#### Rustic's Bottles retextures the bottles and bottle-like items in Minecraft to be 3D!
 <p align="center"><img width='600' src='resources/showcase.png'></p>
 
 ---
