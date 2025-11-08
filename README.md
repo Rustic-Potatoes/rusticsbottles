@@ -36,6 +36,11 @@
 
  ---
 
+ #### Links:
+ - Curseforge: [Rustic's Bottles](https://www.curseforge.com/minecraft/texture-packs/rusticsbottles)
+
+---
+
 
 
 
