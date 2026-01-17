@@ -1,11 +1,14 @@
 ---
-
-#### Rustic's Bottles retextures the bottles and bottle-like items in Minecraft to be 3D!
-<p align="center"><img width='600' src='resources/showcase.png'></p>
+<p align="center"><img width='1000' src='resources/banner.png'></p>
 
 ---
+#### Rustic's Bottles retextures the bottles and bottle-like items in Minecraft to be 3D!
 
-#### this includes: 
+All of the potions, and every item that contains a bottle in minecraft are now 3D. The custom model is also shown when a splash potion or bottle o' enchanting is thrown in the air. making it so the old texture won't be seen. In addition, modded potions should be able to show up with the correct color.
+
+<details>
+  <summary> List of every item included:</summary>
+
  - Glass Bottle
 
 <img width='150' src='resources/renders/bottle.png'>
@@ -33,8 +36,15 @@
  - Experience Bottle
 
 <img width='150' src='resources/renders/experience_bottle.png'>
+</details>
 
  ---
+
+ #### If you encounter any bugs or have a suggestion, please report it on my [Github page](https://github.com/Rustic-Potatoes/rusticsbottles/).
+
+If you like this pack, try my other resource pack, [Rustic's Books](https://github.com/Rustic-Potatoes/rusticsbooks).
+
+---
 
  #### Links:
  - Curseforge: [Rustic's Bottles](https://www.curseforge.com/minecraft/texture-packs/rusticsbottles)
