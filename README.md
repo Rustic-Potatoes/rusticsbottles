@@ -4,7 +4,7 @@
 ---
 #### Rustic's Bottles retextures the bottles and bottle-like items in Minecraft to be 3D!
 
-All of the potions, and every item that contains a bottle in minecraft are now 3D. The custom model is also shown when a splash potion or bottle o' enchanting is thrown in the air. making it so the old texture won't be seen. In addition, modded potions should be able to show up with the correct color.
+All of the potions and every item that contains a bottle in Minecraft are now 3D and animated. The custom model is also shown when a splash potion or bottle o' enchanting is thrown in the air. making it so the old texture won't be seen. In addition, modded potions should be able to have the correct color.
 
 <details>
   <summary> List of every item included:</summary>
