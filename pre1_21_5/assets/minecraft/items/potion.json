@@ -1,0 +1,12 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "rusticsbottles:item/potion/water",
+		"tints": [
+			{
+				"type": "minecraft:potion",
+				"default": -13083194
+			}
+		]
+	}
+}
